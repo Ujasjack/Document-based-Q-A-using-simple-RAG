@@ -1,0 +1,4 @@
+llama-index qdrant_client torch transformers
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-vector-stores-qdrant
